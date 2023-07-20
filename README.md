@@ -13,7 +13,7 @@ In this repository, you will find a collection of dynamic programming algorithms
 Whether you're a beginner looking to learn dynamic programming or an experienced programmer seeking to sharpen your problem-solving skills, this repository will serve as your guide. Feel free to browse the code, experiment with different algorithms.
 
 
-📝 Medium Article: Check out our accompanying Medium article [here]() to dive deeper into the world of dynamic programming.
+📝 Medium Article: Check out our accompanying Medium article [here](https://medium.com/spinor/a-straightforward-introduction-to-dynamic-programming-6b7fce2d7814) to dive deeper into the world of dynamic programming.
 
 👥 LinkedIn Profile: Connect with me on LinkedIn [here](https://www.linkedin.com/in/sagark30/) for more updates and discussions on dynamic programming.
 
